@@ -1,20 +1,23 @@
-﻿# Projeto 4
+# Projeto 4
 
 # Show
 ---------------------------- Um preview da Página ---------------------------------
 <div>
 <img src="./assets/imgs/GIF_DEMO.gif">
-by @ Pricila - "https://github.com/pripc"
+by @ Pricila - https://github.com/pripc
 </div>
 
 # Projeto 4:
 
-Baseado nas orientações do assets/docs/Instrucoes Projeto 4.pdf
+Baseado nas orientações do:
+
+ <embed src="assets/docs/inst_projeto_4.pdf" type="application/pdf" width="100%" height="100%">
 
 # Usando o bootStrap
+
  (https://getbootstrap.com/)
- 
- # Bora lá: 
+
+# Bora lá: 
 
 1 --------Menu de navegação - navbar ---------------------
 

@@ -9,9 +9,9 @@ by @ Pricila - https://github.com/pripc
 
 # Projeto 4:
 
-Baseado nas orientações do:
+Baseado nas orientações do pdf:
 
- <embed src="assets/docs/inst_projeto_4.pdf" type="application/pdf" width="100%" height="100%">
+ <embed src="assets/docs/inst_projeto_4.pdf" type="application/pdf" width="100" height="100">
 
 # Usando o bootStrap
 

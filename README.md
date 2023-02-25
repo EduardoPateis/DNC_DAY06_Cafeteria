@@ -3,7 +3,7 @@
 # Show
 ---------------------------- Um preview da Página ---------------------------------
 <div>
-<img src="assets/imgs/GIF_DEMO.gif">
+<img src="./assets/imgs/GIF_DEMO.gif">
 by @ Pricila - "https://github.com/pripc"
 </div>
 

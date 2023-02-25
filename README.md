@@ -2,10 +2,10 @@
 
 # Show
 ---------------------------- Um preview da Página ---------------------------------
-<h1>
+<div>
 <img src="assets/imgs/GIF_DEMO.gif">
 by @ Pricila - "https://github.com/pripc"
-</h1>
+</div>
 
 # Projeto 4:
 

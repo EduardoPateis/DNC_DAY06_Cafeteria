@@ -3,7 +3,7 @@
 # Show
 ---------------------------- Um preview da Página ---------------------------------
 <p>
-<img src="./assets/imgs/GIF_DEMO.gif">
+<img width= "600" src="assets/imgs/demo.gif">
 
 </p>
 

@@ -15,9 +15,9 @@
 # Projeto 4:
 
 Baseado nas orientações do pdf:
-
+<p>
  <embed src="assets/docs/inst_projeto_4.pdf" type="application/pdf" width="100" height="100">
-
+</p>
 # Usando o bootStrap
 
  (https://getbootstrap.com/)

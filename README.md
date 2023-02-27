@@ -124,8 +124,8 @@ Baseado nas orientações do pdf:
             </div>
         </section>
  </main>
-3 ---------------------- Modais ------------------------
-3.1 Modal 1 --------------------------------------------
+3 ---------------------- Modais ---------------------------------------------------------------------------------------------
+3.1 Modal 1 -----------------------------------------------------------------------
     <div id="meuModal" class="modal fade text-center" role="dialog">
         <div class="modal-dialog modal-dialog-scrollable ">
             <div class="modal-content ">
@@ -145,7 +145,7 @@ Baseado nas orientações do pdf:
                     </div>
                 </div>
             </div>
-3.2 Modal 2 --------------------------------------------
+3.2 Modal 2 --------------------------------------------------------------------------
         </div>
     </div>
     <div id="atendimentoCard" class="modal fade text-center" role="dialog">
@@ -167,8 +167,11 @@ Baseado nas orientações do pdf:
     </div>
 
 
-4------------ O Jabá ------------------------------------
+4 ------------ O Jabá ------------------------------------
 Não pode faltar o Jabá!
     <footer class="py-5 my-5">
         <p class="text-center text-muted"> © Eduardo "The Dangerous!"</p>
     </footer>
+    
+    
+    
